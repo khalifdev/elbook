@@ -2,6 +2,26 @@
 
 > Catalog of Elbook with Vue.js on Node.js
 
+## Инициализация проекта
+
+``` bash
+npm install -g vue-cli
+
+vue init webpack project_name
+
+cd project_dir
+
+npm install
+
+npm install vue-router
+
+npm install vuex
+
+npm install axios
+
+npm run dev
+```
+
 ## Build Setup
 
 ``` bash
